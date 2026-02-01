@@ -14,4 +14,5 @@ Data = load_breast_cancer()
 
 *Model Confusion Matrix Heatmap :*
 
-<img width="501" height="393" alt="image" src="https://github.com/user-attachments/assets/ba5098aa-4233-4ee2-aaeb-1c0f1e14e479" />
+<img width="501" height="393" alt="image" src="https://github.com/user-attachments/assets/a6b3edc4-9525-424d-a701-efdce3ce9a37" />
+
