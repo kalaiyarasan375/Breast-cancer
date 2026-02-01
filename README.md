@@ -1,0 +1,2 @@
+# Breast-cancer
+Cancer prediction on Wisconsin Breast Cancer Dataset using supervised learning - Logistic Regression. The model have achieved 94% of accuracy.
